@@ -1,0 +1,65 @@
+[
+    {
+        "roll_no":"cs20b1007",
+        "person_name":"jashwanth",
+        "gender":"male",
+        "about":"sophomore at iiitdm",
+        "age":19,
+        "from_place":"chennai",
+        "to_place":"hyderabad",
+        "from_date":"2022-04-05",
+        "to_date":"2022-04-10",
+        "mode_of_transport":"train"
+    },
+    {
+        "roll_no":"cs20b1016",
+        "person_name":"nagasai",
+        "gender":"male",
+        "about":"movie lover",
+        "age":20,
+        "from_place":"banglore",
+        "to_place":"chennai",
+        "from_date":"2022-04-08",
+        "to_date":"2022-04-10",
+        "mode_of_transport":"bus"
+    },
+    {
+        "roll_no":"cs20b1032",
+        "person_name":"vinay",
+        "gender":"male",
+        "about":"cricket player",
+        "age":19,
+        "from_place":"hyderabad",
+        "to_place":"chennai",
+        "from_date":"2022-04-6",
+        "to_date":"2022-04-8",
+        "mode_of_transport":"flight"
+    },
+    {
+        "roll_no":"cs20b1057",
+        "person_name":"dhanush",
+        "gender":"male",
+        "about":"TT champ",
+        "age":19,
+        "from_place":"delhi",
+        "to_place":"mumbai",
+        "from_date":"2022-04-08",
+        "to_date":"2022-04-09",
+        "mode_of_transport":"train"
+    },
+    {
+        "roll_no":"cs20b1033",
+        "person_name":"harsha",
+        "gender":"male",
+        "about":"introvert",
+        "age":20,
+        "from_place":"chennai",
+        "to_place":"hyderabad",
+        "from_date":"2022-04-04",
+        "to_date":"2022-04-15",
+        "mode_of_transport":"train"
+    },
+    {
+        
+    }
+]
